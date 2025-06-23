@@ -1,20 +1,15 @@
-# aws-ec2-rds-php-project
-Dynamic web application hosted on AWS EC2 using Apache, PHP, and connected to an RDS MySQL database. It fetches and displays data dynamically from the backend.
 # AWS EC2 + RDS + PHP Project
 
-## Overview
-This is a dynamic website hosted on AWS EC2 (Ubuntu) using Apache and PHP, and connected to an RDS MySQL database. The app fetches and displays user data from the database.
+This is a cloud-based dynamic website project hosted on AWS using:
 
-## Tech Stack
-- AWS EC2 (Ubuntu)
-- Apache Web Server
-- PHP
-- AWS RDS (MySQL)
+- EC2 Ubuntu instance with Apache + PHP
+- RDS (MySQL) as backend database
 
-## How it works
-1. Apache + PHP app is deployed on EC2.
-2. PHP code connects to RDS MySQL using endpoint.
-3. Data from `users` table is displayed dynamically.
+## Features:
+- Hosted PHP app on EC2
+- Connected to RDS MySQL database
+- Fetches and displays user data dynamically
 
+## Technologies:
+AWS EC2, RDS, Apache2, PHP, MySQL
 
-Shankar Landge
